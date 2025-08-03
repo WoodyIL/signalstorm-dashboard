@@ -1,1 +1,0 @@
-// Placeholder for live data hooks and animation logic

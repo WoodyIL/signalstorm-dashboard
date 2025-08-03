@@ -66,3 +66,11 @@ footer {
   text-align: center;
   font-size: 0.9em;
 }
+
+.img {
+  max-width: 100%;
+  height: auto;
+  margin: 0.5em 0;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}

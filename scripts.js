@@ -1,1 +1,5 @@
-// Placeholder for live data hooks and animation logic
+
+function switchView(view) {
+  document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+  document.getElementById(view).classList.add('active');
+}
